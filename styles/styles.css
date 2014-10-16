@@ -1,0 +1,39 @@
+a:link {
+    color : #0000FF; 
+    text-decoration : underline ;            
+}   
+a:hover {       
+    color : #FF0000;
+    text-decoratio : none;    
+}        
+.fontBig { 
+    font-family: Verdana, Arial, Helvetica;  
+    font-size: 30px; 
+    font-weight : bold ;            
+}
+.fontSmall { 
+    font-family: Verdana, Arial, Helvetica;  
+    font-size: 10px; 
+}
+.fontNormal { 
+    font-family: Verdana, Arial, Helvetica;  
+    font-size: 13px;     
+}
+.hilight {
+    font-family: Verdana, Arial, Helvetica;  
+    color : #FF0000; 
+    font-weight : bold ;            
+    font-size: 15px; 
+}
+.colorRed {
+	color: #FF0000;
+}
+.colorGreen{
+    color: #00FF00;
+}
+.colorBlue {
+    color: #0000FF;
+}
+.colorBlack {
+    color: #000000;
+}   
